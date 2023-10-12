@@ -1,22 +1,39 @@
 An analysis will be performed on the different factors and variables that are associated with the top streamed songs on Spotify in 2023. Kaggle maintains records of the most famous songs of 2023 as listed on Spotify. This dataset shares various attributes/insights regarding the songs listed. Each record is as follows:
 
 Track_name: Name of the song
+
 Artist(s)_name: Name of the artist(s) of the song
+
 Artist_count: Number of artists contributing to the song
+
 Released_year: Year when the song was released
+
 Released_day: Day of the month when the song was released
+
 In_spotify_playlists: Number of Spotify playlists the song is included in
+
 In_spotify_charts: Presence and rank of the song on Spotify charts
+
 Streams: Total number of streams on Spotify
+
 Bpm: Beats per minute, a measure of song tempo
+
 Key: Key of the song
+
 Mode: Mode of the song (major or minor)
+
 Danceability_%: Percentage indicating how suitable the song is for dancing
+
 Valence_%: Positivity of the song’s musical content
+
 Energy_%: Perceived energy level of the song
+
 Acousticness_%: Amount of acoustic sound in the song
+
 Instrumentalness_%: Amount of instrumental content in the song
+
 Liveness_%: Presence of live performance elements
+
 Speechiness_%: Amount of spoken words in the song
 
 Analysis Use Case
